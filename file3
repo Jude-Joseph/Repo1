@@ -1,3 +1,8 @@
 This is a new file created in branch2 branch
 This is to demonstrate merge conflicts
+<<<<<<< HEAD
 This is added in Master branch
+=======
+This is for the new branch3
+
+>>>>>>> branch3
